@@ -10,5 +10,5 @@ This is a simple command-line tool. chicken and rabbit cage problem. When heads 
 Example problem description：
 There are multiple chickens and rabbits in a cage. There are 72 heads and 200 feet inside of the cage. How many chickens are in there and how many rabbits?
 
-##comand line to run
+## comand line to run
 cargo run -- chicken-rabbit-same-cage --thead <head> <leg>
